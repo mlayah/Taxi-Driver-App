@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Screenshot
 
-<img src="earnings.jpg>
+<img src="earnings.jpg">
 
 ## Getting Started
 
