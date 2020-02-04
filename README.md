@@ -1,6 +1,10 @@
-# ui_earnings
+# Taxi Driver App Earnings Interface
 
 A new Flutter project.
+
+# Screenshot
+
+<img src="earnings.jpg>
 
 ## Getting Started
 
